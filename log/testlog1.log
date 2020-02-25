@@ -1,0 +1,15 @@
+2020-02-12 13:47:28,932 [main] INFO ebanking - Navigate to Login Page
+2020-02-12 13:47:29,141 [main] INFO ebanking - Provided UserName
+2020-02-12 13:47:29,278 [main] INFO ebanking - Provided Password
+2020-02-12 13:47:30,322 [main] INFO ebanking - Clicked on Login Button
+2020-02-12 13:47:30,390 [main] INFO ebanking - Login Test failed
+2020-02-12 13:51:29,782 [main] INFO ebanking - Navigate to Login Page
+2020-02-12 13:51:30,119 [main] INFO ebanking - Provided UserName
+2020-02-12 13:51:31,308 [main] INFO ebanking - Provided Password
+2020-02-12 13:51:32,592 [main] INFO ebanking - Clicked on Login Button
+2020-02-12 13:51:32,616 [main] INFO ebanking - Login Test passed
+2020-02-12 15:00:34,902 [main] INFO ebanking - Navigate to Login Page
+2020-02-12 15:00:35,221 [main] INFO ebanking - Provided UserName
+2020-02-12 15:00:35,514 [main] INFO ebanking - Provided Password
+2020-02-12 15:00:41,236 [main] INFO ebanking - Clicked on Login Button
+2020-02-12 15:00:41,251 [main] INFO ebanking - Login Test passed
